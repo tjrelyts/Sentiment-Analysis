@@ -3,7 +3,7 @@
 <h3>Overview</h3>
 This project represents a comprehensive Machine Learning model, designed and implemented as the capstone for a specialized course. 
 
-This Sentiment Analyzer leverages the robust dataset available at <a href="https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140</a>, and employs advanced machine learning techniques using scikit-learn and the Naive Bayes algorithm for insightful analysis and classification of sentiments expressed in the data.
+This Sentiment Analyzer leverages the robust dataset available at <a href="https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140</a>, and it employs advanced machine learning techniques using scikit-learn and the Naive Bayes algorithm for insightful analysis and classification of sentiments expressed in the data.
 
 <h3>Key Features</h3>
 <ul>
@@ -17,4 +17,4 @@ The Sentiment140 dataset is a rich collection of data, specifically curated for 
 
 <h3>Contributions and Future Work</h3>
 
-This project is open for collaboration and further development. We welcome contributions from fellow developers and enthusiasts in the field of machine learning. Future enhancements may include model optimization, expanding the dataset, and integrating more advanced natural language processing techniques.
+This project is open for collaboration and further development. Contributions are welcome from fellow developers and enthusiasts in the field of machine learning. Future enhancements may include model optimization, expanding the dataset, and integrating more advanced natural language processing techniques.
